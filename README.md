@@ -18,15 +18,28 @@ MedQuAD включает 14 560 пар медицинских вопросов-�
 
 Для оценки ответов LLM, были выбраны метрики: BLEU, ROUNGE-N, BERTScore, Семантическое сходство.
 
-Также были оценены длина генирируемого ответа и сбои в работе LLM.
+<p align="center">
 
-
-  <img width="977" alt="Screenshot 2024-02-16 at 17 09 36" src="https://github.com/janelovesprogramming/llm_evaluation/assets/35342454/2dbc013e-5781-467d-8a55-4794bd3847d8">
-![newplot (3)](https://github.com/janelovesprogramming/llm_evaluation/assets/35342454/33edefd2-5269-48d3-8cf8-233b325be5ec)
-![newplot (2)](https://github.com/janelovesprogramming/llm_evaluation/assets/35342454/31384396-b703-4e3f-8807-ea20bcd3b314)
-![newplot (1)](https://github.com/janelovesprogramming/llm_evaluation/assets/35342454/392b7e3c-4693-451c-ad9b-54d18e1fdbc2)
-
+<img width="977" alt="Screenshot 2024-02-16 at 17 09 36" src="https://github.com/janelovesprogramming/llm_evaluation/assets/35342454/2dbc013e-5781-467d-8a55-4794bd3847d8">
+ Рисунок 1. Набор данных с метриками для оценки ответов LLM.
+ </p>
+ <p align="center">
 <img width="1010" alt="Screenshot 2024-02-16 at 12 52 31" src="https://github.com/janelovesprogramming/llm_evaluation/assets/35342454/b7e939af-cf34-417b-9596-01931200246a">
+  Рисунок 2. Таблица со средними значениями метрик.
+ </p>
+
+
+![newplot (2)](https://github.com/janelovesprogramming/llm_evaluation/assets/35342454/bf72937e-2b78-41d4-9880-c17f101c1f46)
+
+ <p align="center">
+Рисунок 3. Распределение метрики ROUGE-N.
+ </p>
+
+![newplot (3)](https://github.com/janelovesprogramming/llm_evaluation/assets/35342454/e80eebd4-8652-415e-9d8e-de522510d46e)
+
+ <p align="center">
+Рисунок 4. Распределение метрики семантическое сходство.
+ </p>
 
 ## 3. Описание метрик 
 
