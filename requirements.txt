@@ -1,0 +1,11 @@
+bert-score==0.3.13
+numpy==1.24.2
+pandas==2.0.0
+rouge==1.0.1
+sacrebleu==2.4.0
+torch==2.0.1
+tornado==6.2
+tqdm==4.65.0
+transformers==4.33.1
+
+

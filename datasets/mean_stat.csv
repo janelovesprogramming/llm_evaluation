@@ -1,0 +1,2 @@
+model_name;bleu;ref_len;resp_len;rouge_1;rouge_2;rouge_l;sem_sim
+gemini-pro;0.032;177.668;93.524;0.274;0.07;0.18;0.714
